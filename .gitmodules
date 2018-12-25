@@ -1,6 +1,6 @@
 [submodule "OMEdit"]
 	path = OMEdit
-	url = https://github.com/OpenModelica/OMEdit.git
+	url = https://github.com/traversaro/OMEdit.git
 [submodule "doc"]
 	path = doc
 	url = https://github.com/OpenModelica/OpenModelica-doc.git
@@ -9,10 +9,10 @@
 	url = https://github.com/OpenModelica/OMOptim.git
 [submodule "OMPlot"]
 	path = OMPlot
-	url = https://github.com/OpenModelica/OMPlot.git
+	url = https://github.com/traversaro/OMPlot.git
 [submodule "OMNotebook"]
 	path = OMNotebook
-	url = https://github.com/OpenModelica/OMNotebook.git
+	url = https://github.com/traversaro/OMNotebook.git
 [submodule "common"]
 	path = common
 	url = https://github.com/OpenModelica/OpenModelica-common.git
@@ -27,7 +27,7 @@
 	url = https://github.com/OpenModelica/OpenModelica-testsuite.git
 [submodule "OMShell"]
 	path = OMShell
-	url = https://github.com/OpenModelica/OMShell.git
+	url = https://github.com/traversaro/OMShell.git
 [submodule "OMSimulator"]
 	path = OMSimulator
 	url = https://github.com/OpenModelica/OMSimulator.git
